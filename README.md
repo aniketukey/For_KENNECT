@@ -1,0 +1,2 @@
+# For_KENNECT
+This assignment is for ASSESSMENT Round for SOFTWARE DEVELOPER ROLE at KENNECT.
